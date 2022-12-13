@@ -13,4 +13,4 @@
   
 - ⚡️ Fun fact: I'm a big fan of Magic the gathering, I love to eat and ride a bike.
 
-[ ![Paramirez's github stats](https://github-readme-stats.vercel.app/api?username=paramirez&theme=dark&show_icons=true)](https://github.com/paramirez)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paramirez&theme=dracula&show_icons=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
