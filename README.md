@@ -1,6 +1,6 @@
 - 🏢 I'm currently working at **Likemetric**
 
-- Linkedin: ![linkedin](https://img.shields.io/badge/linkedin-social-007ACC?style=social&logo=linkedin&link=www.linkedin.com/in/paramirez2)
+[![Linkedin Badge](https://img.shields.io/badge/-paramirez2-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/paramirez2/)](https://www.linkedin.com/in/paramirez2/)
 
 - 🚀 I use daily: ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript) ![Typescript](https://img.shields.io/badge/-Typescript-black?style=flat-square&logo=typescript)  ![Node.JS](https://img.shields.io/badge/-Node.JS-black?style=flat-square&logo=Node.js)  ![React](https://img.shields.io/badge/-React-3b2e5a?style=flat-square&logo=react) ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git) ![Shell](https://img.shields.io/badge/-Shell-241F31?style=flat-square&logo=windowsterminal) ![Ubuntu](https://img.shields.io/badge/-Arch_Linux-241F31?style=flat-square&logo=archlinux) ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
   
