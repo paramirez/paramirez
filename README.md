@@ -11,7 +11,7 @@
 
 ## About
 
-- I enjoy designing maintainable systems using **Hexagonal Architecture**, **CQRS**, and clear domain boundaries.
+- I genuinely enjoy building useful software, and getting paid to do it makes it even more rewarding.
 - Experience building backend systems in production, contributing to architecture decisions and reliable delivery.
 
 ## Current focus
