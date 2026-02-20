@@ -11,7 +11,7 @@
 
 ## About
 
-- I genuinely enjoy building useful software, and getting paid to do it makes it even more rewarding.
+- I enjoy building useful software and feel most fulfilled when that work creates real value in professional environments.
 - Experience building backend systems in production, contributing to architecture decisions and reliable delivery.
 
 ## Current focus
