@@ -49,8 +49,11 @@
 ## GitHub Stats
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=paramirez&show_icons=true&theme=transparent&hide_border=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paramirez&layout=compact&theme=transparent&hide_border=true" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=paramirez&theme=transparent" />
+</p>
+
+<p align="center">
+  <img height="180" src="https://streak-stats.demolab.com?user=paramirez&theme=transparent&hide_border=true" />
 </p>
 
 ## Contact
