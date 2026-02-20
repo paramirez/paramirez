@@ -1,16 +1,56 @@
-- 🏢 I'm currently working at **Likemetric**
+<h1 align="center">Hi, I'm Pablo Ramírez 👋</h1>
+<p align="center">
+  Software Engineer focused on backend architecture, distributed systems and product delivery.
+</p>
 
-[![Linkedin Badge](https://img.shields.io/badge/-paramirez2-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/paramirez2/)](https://www.linkedin.com/in/paramirez2/)
+<p align="center">
+  <a href="https://www.linkedin.com/in/paramirez2/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-paramirez2-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <img alt="Current role" src="https://img.shields.io/badge/Current%20Role-Software%20Engineer-111827?style=for-the-badge"/>
+  <img alt="Company" src="https://img.shields.io/badge/Company-Blue%20Express-0052CC?style=for-the-badge"/>
+</p>
 
-- 🚀 I use daily: ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript) ![Typescript](https://img.shields.io/badge/-Typescript-black?style=flat-square&logo=typescript)  ![Node.JS](https://img.shields.io/badge/-Node.JS-black?style=flat-square&logo=Node.js)  ![React](https://img.shields.io/badge/-React-3b2e5a?style=flat-square&logo=react) ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git) ![Shell](https://img.shields.io/badge/-Shell-241F31?style=flat-square&logo=windowsterminal) ![Ubuntu](https://img.shields.io/badge/-Arch_Linux-241F31?style=flat-square&logo=archlinux) ![Vim](https://img.shields.io/badge/-Vim-111111?style=flat-square&logo=vim)
-  
-- 💻 I work using: ![Python](https://img.shields.io/badge/-Python-FFCD11?style=flat-square&logo=Python) ![MaterialUI](https://img.shields.io/badge/-MaterialUI-0081CB?style=flat-square&logo=material-UI) ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=Django) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-CCC?style=flat-square&logo=postgresql) ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github) ![Jira](https://img.shields.io/badge/-Jira-007ACC?style=flat-square&logo=Jira) ![Bitbucket](https://img.shields.io/badge/-Bitbucket-007ACC?style=flat-square&logo=bitbucket)
-  
-- ⚙️ I also use and work:  ![Express.JS](https://img.shields.io/badge/-Express.JS-c7b198?style=flat-square&logo=Express.JS)   ![Graphql](https://img.shields.io/badge/-Graphql-E10098?style=flat-square&logo=Graphql)  ![Java](https://img.shields.io/badge/-Java-3f4441?style=flat-square&logo=java)  ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+## About
 
-- 🌱 Learning all about: ![Go](https://img.shields.io/badge/-GO-black?style=flat-square&logo=go) ![Flutter](https://img.shields.io/badge/Flutter-black?style=flat-square&logo=Flutter) ![React Native](https://img.shields.io/badge/-React_Native-black?style=flat-square&logo=react)
-  
-  
-- ⚡️ Fun fact: I'm a big fan of Magic the gathering, I love to eat and ride a bike.
+- Currently building and improving software at **Blue Express**.
+- I enjoy designing maintainable systems using **Hexagonal Architecture**, **CQRS**, and clear domain boundaries.
+- Strong focus on backend reliability, async workflows, and developer experience.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paramirez&theme=dracula&show_icons=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+## Tech I use
+
+### Backend & Architecture
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+
+### Data & Messaging
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![SQS](https://img.shields.io/badge/AWS_SQS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+### Frontend & Tooling
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=111827)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=111827)
+![Vim](https://img.shields.io/badge/Vim-019733?style=flat-square&logo=vim&logoColor=white)
+
+## Current focus
+
+- Scalable APIs and async processing with queues.
+- Observability and operational readiness.
+- Clean architecture and high-signal code reviews.
+
+## GitHub Stats
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=paramirez&show_icons=true&theme=transparent&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paramirez&layout=compact&theme=transparent&hide_border=true" />
+</p>
+
+## Contact
+
+- LinkedIn: https://www.linkedin.com/in/paramirez2/
