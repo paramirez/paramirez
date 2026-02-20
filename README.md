@@ -4,10 +4,7 @@
 </p>
 
 <p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2800&pause=900&color=0052CC&center=true&vCenter=true&repeat=true&width=720&lines=8%2B+years+building+production+backend+systems;Current+focus%3A+AI+Engineering+in+real+products;Agents%2C+automation+and+reliable+software+delivery"
-    alt="Animated focus summary"
-  />
+  <img src="./assets/ai-signal.svg" alt="Animated AI signal" width="760" />
 </p>
 
 <p align="center">
@@ -20,7 +17,7 @@
 
 - Currently building and improving software at **Blue Express**.
 - I enjoy designing maintainable systems using **Hexagonal Architecture**, **CQRS**, and clear domain boundaries.
-- 8+ years building backend systems in production, leading architecture decisions, and delivering reliable platforms end to end.
+- Experience building backend systems in production, contributing to architecture decisions and reliable delivery.
 
 ## Current focus
 
