@@ -4,6 +4,13 @@
 </p>
 
 <p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2800&pause=900&color=0052CC&center=true&vCenter=true&repeat=true&width=720&lines=8%2B+years+building+production+backend+systems;Current+focus%3A+AI+Engineering+in+real+products;Agents%2C+automation+and+reliable+software+delivery"
+    alt="Animated focus summary"
+  />
+</p>
+
+<p align="center">
   <a href="https://www.linkedin.com/in/paramirez2/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-paramirez2-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <img alt="Current role" src="https://img.shields.io/badge/Current%20Role-Software%20Engineer-111827?style=for-the-badge"/>
   <img alt="Company" src="https://img.shields.io/badge/Company-Blue%20Express-0052CC?style=for-the-badge"/>
