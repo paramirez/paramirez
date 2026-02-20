@@ -13,7 +13,7 @@
 
 - Currently building and improving software at **Blue Express**.
 - I enjoy designing maintainable systems using **Hexagonal Architecture**, **CQRS**, and clear domain boundaries.
-- Strong focus on backend reliability, async workflows, and developer experience.
+- 8+ years building backend systems in production, leading architecture decisions, and delivering reliable platforms end to end.
 
 ## Current focus
 
@@ -28,16 +28,6 @@
 - I study AI continuously with a hands-on approach: read, prototype, measure, iterate.
 - I apply AI to real software delivery: workflow automation, coding assistants, and agent-based pipelines.
 - I focus on turning AI ideas into production-ready outcomes with clear architecture, testing, and observability.
-
-## GitHub Stats
-
-<p align="center">
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=paramirez&theme=transparent" />
-</p>
-
-<p align="center">
-  <img height="180" src="https://streak-stats.demolab.com?user=paramirez&theme=transparent&hide_border=true" />
-</p>
 
 ## Contact
 
