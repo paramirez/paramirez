@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="./assets/ai-signal.svg" alt="Profile banner" width="860" />
-</p>
+<h1 align="center">Hi, I'm Pablo Ramírez 👋</h1>
 
 <p align="center">
   Software Engineer focused on backend architecture, distributed systems and product delivery.
