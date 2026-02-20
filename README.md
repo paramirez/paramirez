@@ -40,6 +40,8 @@
 
 ## Current focus
 
+- Becoming an **AI Engineer** with strong practical delivery.
+- Building and orchestrating **AI Skills** and **Agents** for real product workflows.
 - Scalable APIs and async processing with queues.
 - Observability and operational readiness.
 - Clean architecture and high-signal code reviews.
